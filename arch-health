@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+sudo "$(dirname "$0")/.venv/bin/python" cli.py "$@"
